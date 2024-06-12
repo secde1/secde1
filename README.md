@@ -8,10 +8,6 @@
 
 [![Gmail Badge](https://img.shields.io/badge/turgunovjamshid32@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:turgunovjamshid32@gmail.com)](mailto:turgunovjamshid32@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-@secdeee1-grey?style=flat-square&logo=Telegram&logoColor=white&link=https://telegram.org/@secdeee1)](https://telegram.org/@secdeee1)
-[![Twitter Follow](https://img.shields.io/twitter/follow/sriharikapu?style=social)](https://www.twitter.com/sriharikapu)
-[![Linkedin Badge](https://img.shields.io/badge/-sriharikapu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sriharikapu/)](https://www.linkedin.com/in/sriharikapu/)
-[![Instagram Badge](https://img.shields.io/badge/-sriharikapu-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/sriharikapu/)](https://www.instagram.com/sriharikapu/)
-[![Facebook Badge](https://img.shields.io/badge/-sriharikapu-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/officialsriharikapu)](https://www.facebook.com/officialsriharikapu)
 
 ![Snake](https://profile-readme-generator.com/assets/snake.svg)
 
