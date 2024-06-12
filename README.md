@@ -4,7 +4,7 @@
 <h2 style="font-size: 18px; color: #4a90e2;">21-летний Python разработчик. Увлекаюсь разработкой веб-приложений и
 автоматизацией процессов. Всегда открыт к новым идеям и сотрудничеству.</h2>
 
-<h2 style="font-size: 24px; color: #4a90e2;">📬 Мои профили в социальных сетях:</h2>
+<h2 style="font-size: 24px; color: #yellow;">📬 Мои профили в социальных сетях:</h2>
 
 [![Gmail Badge](https://img.shields.io/badge/turgunovjamshid32@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:turgunovjamshid32@gmail.com)](mailto:turgunovjamshid32@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-@secdeee1-grey?style=flat-square&logo=Telegram&logoColor=white&link=https://telegram.org/@secdeee1)](https://telegram.org/@secdeee1)
